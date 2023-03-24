@@ -1,7 +1,6 @@
 import java.io.BufferedOutputStream;
 import java.io.FileOutputStream;
 import java.io.IOException;
-import java.util.Arrays;
 
 public class task {
     public static void main(String[] args) throws IOException {
