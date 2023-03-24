@@ -1,6 +1,5 @@
 package homework;
 
-import java.lang.reflect.Array;
 import java.util.Arrays;
 
 public class task {
@@ -112,7 +111,7 @@ public class task {
     // * * Также заполнить элементы побочной диагонали
 
     private static void squareArray(String[] args) {
-        int[][] array = new int[4][4];
+        int[][] array = new int[3][3];
         {
             for (int i = 0; i < array.length; i++) {
                 for (int j = 0; j < array.length; j++) {
