@@ -14,7 +14,7 @@ public class task2 {
         System.out.println(kit);
     }
 
-    private static void stringNumber(ArrayList<String> kit) throws IOException {
+    private static void stringNumber(ArrayList<String> kit) {
         int i = 0;
         while (i < kit.size()) {
             try {
